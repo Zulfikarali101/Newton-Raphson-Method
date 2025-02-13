@@ -1,6 +1,7 @@
-%Metode Newton-Raphson
+%Newton-Raphson
 %Zulfikar Ali Ibadurrahman
 %12918030
+%Longshore Current: (0.49*(10^(1/2))*(a^(1/2)))-8
 
 a=input('Masukkan nilai Xn: ');
 err=input('Masukkan nilai toleransi: ');
